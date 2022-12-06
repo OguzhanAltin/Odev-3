@@ -1,2 +1,3 @@
-# Tarif
-HTML kullanarak tatli tarifi yaziyorum.
+# **Tatli Tarifi**
+
+> HTML kullanarak tatli tarifi yaziyorum.
