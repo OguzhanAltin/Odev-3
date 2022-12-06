@@ -1,3 +1,3 @@
 # **Tatli Tarifi**
 
-> HTML kullanarak tatli tarifi yaziyorum.
+> HTML kullanarak tatli tarifi yazdim.
